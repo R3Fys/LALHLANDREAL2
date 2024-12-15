@@ -1,0 +1,43 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-15 15:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-15 15:53:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-12-15 15:51:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "frozen_tundra": "2024-12-15 15:54:12 +0000",
+      "frozen_pine_taiga": "2024-12-15 15:53:06 +0000",
+      "cold_boreal_taiga": "2024-12-15 15:51:42 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "frozen_tundra": "2024-12-15 15:54:12 +0000",
+      "frozen_pine_taiga": "2024-12-15 15:53:06 +0000",
+      "cold_boreal_taiga": "2024-12-15 15:51:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-12-15 15:53:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}
