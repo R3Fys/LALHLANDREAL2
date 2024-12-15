@@ -5209,3 +5209,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [16:15:59] [Server thread/INFO]: [voicechat] Received secret request of refov (18)
 [16:15:59] [Server thread/INFO]: [voicechat] Sent secret to refov
 [16:15:59] [Server thread/INFO]: Receiving client config
+[16:23:27] [Server thread/INFO]: refov lost connection: Disconnected
+[16:23:27] [Server thread/INFO]: refov left the game
+[16:23:27] [Server thread/INFO]: [voicechat] Disconnecting client refov
+[16:23:35] [Server thread/INFO]: Stopping the server
+[16:23:35] [Server thread/INFO]: Stopping server
+[16:23:35] [Server thread/INFO]: Saving players
+[16:23:35] [Server thread/INFO]: Saving worlds
+[16:23:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:23:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16:23:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:23:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:23:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:23:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16:23:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:23:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:23:35] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:23:35] [Server thread/INFO]: Unloading server configs...
+[16:23:35] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
