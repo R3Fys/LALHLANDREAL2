@@ -5197,3 +5197,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.class_1297.method_1
 [16:07:30] [Server thread/INFO]: JiaqiPro died
 [16:09:13] [Server thread/INFO]: JiaqiPro was not rescued in time
 [16:09:58] [Server thread/INFO]: Villager class_1646['Unemployed'/10267, l='ServerLevel[world]', x=214.49, y=64.42, z=-229.65] died, message: 'Unemployed was slain by Zombie'
+[16:11:52] [Server thread/INFO]: JiaqiPro lost connection: Disconnected
+[16:11:52] [Server thread/INFO]: JiaqiPro left the game
+[16:11:52] [Server thread/INFO]: [voicechat] Disconnecting client JiaqiPro
+[16:15:56] [Server thread/INFO]: refov lost connection: Disconnected
+[16:15:56] [Server thread/INFO]: refov left the game
+[16:15:56] [Server thread/INFO]: [voicechat] Disconnecting client refov
+[16:15:59] [Server thread/INFO]: refov[/127.248.9.134:45667] logged in with entity id 11319 at (609.6999999880791, 101.0, -206.51898665436488)
+[16:15:59] [Server thread/INFO]: Sending server config values to client
+[16:15:59] [Server thread/INFO]: refov joined the game
+[16:15:59] [Server thread/INFO]: [voicechat] Received secret request of refov (18)
+[16:15:59] [Server thread/INFO]: [voicechat] Sent secret to refov
+[16:15:59] [Server thread/INFO]: Receiving client config
