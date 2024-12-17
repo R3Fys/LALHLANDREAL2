@@ -29,6 +29,7 @@
       "maple_forest": "2024-12-15 17:34:44 +0000",
       "autumnal_maple_forest": "2024-12-15 17:26:47 +0000",
       "muddy_river": "2024-12-16 19:29:29 +0000",
+      "chalk_cliffs": "2024-12-17 18:55:23 +0000",
       "magnolia_highlands": "2024-12-16 19:48:12 +0000",
       "lupine_plains": "2024-12-16 19:40:41 +0000"
     },
@@ -51,6 +52,7 @@
       "maple_forest": "2024-12-15 17:34:44 +0000",
       "autumnal_maple_forest": "2024-12-15 17:26:47 +0000",
       "muddy_river": "2024-12-16 19:29:29 +0000",
+      "chalk_cliffs": "2024-12-17 18:55:23 +0000",
       "magnolia_highlands": "2024-12-16 19:48:12 +0000",
       "lupine_plains": "2024-12-16 19:40:41 +0000"
     },
@@ -1990,8 +1992,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-16 21:32:53 +0000",
+      "minecraft:cave_spider": "2024-12-17 18:55:54 +0000",
       "minecraft:skeleton": "2024-12-16 19:49:31 +0000",
       "minecraft:vindicator": "2024-12-16 21:34:47 +0000",
+      "minecraft:enderman": "2024-12-17 18:52:01 +0000",
       "minecraft:witch": "2024-12-16 21:53:03 +0000",
       "minecraft:spider": "2024-12-16 20:02:11 +0000",
       "minecraft:zombie": "2024-12-15 18:16:05 +0000",
@@ -5051,6 +5055,42 @@
   "mcwholidays:recipes/witch_cauldron": {
     "criteria": {
       "has_planks": "2024-12-16 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-17 18:51:17 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/oak_sapling_from_oak_shrub": {
+    "criteria": {
+      "has_oak_shrub": "2024-12-17 18:51:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-17 18:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 18:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 18:51:17 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-12-17 18:51:17 +0000"
     },
     "done": true
   },

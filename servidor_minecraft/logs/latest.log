@@ -2627,3 +2627,39 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [18:06:24] [Server thread/INFO]: Receiving client config
 [18:06:24] [Server thread/INFO]: [voicechat] Received secret request of JiaqiPro (18)
 [18:06:24] [Server thread/INFO]: [voicechat] Sent secret to JiaqiPro
+[18:38:53] [Server thread/INFO]: JiaqiPro lost connection: Disconnected
+[18:38:53] [Server thread/INFO]: JiaqiPro 《◆◆◆◆◆》 left the game
+[18:38:53] [Server thread/INFO]: [voicechat] Disconnecting client JiaqiPro
+[18:39:01] [Server thread/INFO]: JiaqiPro[/127.225.10.207:57711] logged in with entity id 9965 at (18.044723155402124, 71.0, -821.3928871013461)
+[18:39:01] [Server thread/INFO]: Sending server config values to client
+[18:39:01] [Server thread/INFO]: JiaqiPro 《◆◆◆◆◆》 joined the game
+[18:39:01] [Server thread/INFO]: [voicechat] Received secret request of JiaqiPro (18)
+[18:39:01] [Server thread/INFO]: [voicechat] Sent secret to JiaqiPro
+[18:39:01] [Server thread/INFO]: Receiving client config
+[18:39:05] [Server thread/INFO]: JiaqiPro lost connection: Disconnected
+[18:39:05] [Server thread/INFO]: JiaqiPro 《◆◆◆◆◆》 left the game
+[18:39:05] [Server thread/INFO]: [voicechat] Disconnecting client JiaqiPro
+[18:39:11] [Server thread/INFO]: JiaqiPro[/127.225.10.207:54969] logged in with entity id 10277 at (3.292052668002011, 71.0, -823.9950356864164)
+[18:39:11] [Server thread/INFO]: Sending server config values to client
+[18:39:11] [Server thread/INFO]: JiaqiPro 《◆◆◆◆◆》 joined the game
+[18:39:11] [Server thread/INFO]: [voicechat] Received secret request of JiaqiPro (18)
+[18:39:11] [Server thread/INFO]: [voicechat] Sent secret to JiaqiPro
+[18:39:11] [Server thread/INFO]: Receiving client config
+[18:46:53] [Server thread/INFO]: refov[/127.248.9.134:45993] logged in with entity id 12305 at (-979.4468541445166, 69.0, 179.7090805908214)
+[18:46:53] [Server thread/INFO]: Sending server config values to client
+[18:46:53] [Server thread/INFO]: refov 《◆◆◆◆◆》 joined the game
+[18:46:54] [Server thread/INFO]: [voicechat] Received secret request of refov (18)
+[18:46:54] [Server thread/INFO]: [voicechat] Sent secret to refov
+[18:46:54] [Server thread/INFO]: Receiving client config
+[18:48:03] [Server thread/INFO]: [Not Secure] <refov 《◆◆◆◆◆》> -980 69 179
+[18:48:16] [Server thread/INFO]: [refov 《◆◆◆◆◆》: Teleported refov 《◆◆◆◆◆》 to JiaqiPro 《◆◆◆◆◆》]
+[18:48:41] [Server thread/INFO]: refov lost connection: Disconnected
+[18:48:41] [Server thread/INFO]: refov 《◆◆◆◆◆》 left the game
+[18:48:41] [Server thread/INFO]: [voicechat] Disconnecting client refov
+[18:50:16] [Server thread/INFO]: refov[/127.248.9.134:52529] logged in with entity id 13223 at (23.285200166149092, 71.0625, -840.6469790326482)
+[18:50:16] [Server thread/INFO]: Sending server config values to client
+[18:50:16] [Server thread/INFO]: refov 《◆◆◆◆◆》 joined the game
+[18:50:16] [Server thread/INFO]: [voicechat] Received secret request of refov (18)
+[18:50:16] [Server thread/INFO]: [voicechat] Sent secret to refov
+[18:50:16] [Server thread/INFO]: Receiving client config
+[18:55:15] [Server thread/INFO]: [refov 《◆◆◆◆◆》: Teleported refov 《◆◆◆◆◆》 to JiaqiPro 《◆◆◆◆◆》]
