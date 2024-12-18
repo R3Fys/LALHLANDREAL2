@@ -1571,6 +1571,7 @@
       "minecraft:dark_forest": "2024-12-16 20:52:02 +0000",
       "minecraft:forest": "2024-12-16 19:33:15 +0000",
       "minecraft:river": "2024-12-16 19:28:56 +0000",
+      "minecraft:meadow": "2024-12-18 21:10:20 +0000",
       "minecraft:birch_forest": "2024-12-16 19:37:18 +0000",
       "minecraft:stony_shore": "2024-12-16 21:20:21 +0000",
       "minecraft:plains": "2024-12-16 21:19:52 +0000"
@@ -3768,15 +3769,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_polished_andesite": "2024-12-16 21:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2024-12-16 21:55:30 +0000"
+      "has_emerald": "2024-12-16 21:51:14 +0000"
     },
     "done": true
   },
@@ -3792,9 +3787,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
-      "has_emerald": "2024-12-16 21:51:14 +0000"
+      "has_wood_bowl": "2024-12-16 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2024-12-16 21:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-16 21:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-16 21:55:30 +0000"
     },
     "done": true
   },
@@ -3810,15 +3823,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_bowl": {
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_wood_bowl": "2024-12-16 21:55:28 +0000"
+      "has_dandelion": "2024-12-18 21:10:48 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_wood_plate": "2024-12-16 21:55:28 +0000"
+      "has_dandelion": "2024-12-18 21:10:48 +0000"
     },
     "done": true
   },
