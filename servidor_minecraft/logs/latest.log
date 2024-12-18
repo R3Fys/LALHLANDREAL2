@@ -2633,3 +2633,15 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [21:08:21] [Server thread/INFO]: [voicechat] Sent secret to wuebo
 [21:08:21] [Server thread/INFO]: Receiving client config
 [21:08:35] [Server thread/INFO]: Teleported wuebo 《◆◆◆◆◇》 to Patrick031 《◆◆◆◆◆》
+[21:19:35] [Server thread/INFO]: wuebo 《◆◆◆◆◇》 has made the advancement [Isn't It Iron Pick]
+[21:22:27] [Server thread/INFO]: Patrick031 《◆◆◆◆◆》 was shot by Skeleton
+[21:22:32] [Server thread/INFO]: Patrick031 lost connection: Disconnected
+[21:22:32] [Server thread/INFO]: Patrick031 《◆◆◆◆◆》 left the game
+[21:22:32] [Server thread/INFO]: [voicechat] Disconnecting client Patrick031
+[21:23:07] [Server thread/INFO]: wuebo 《◆◆◆◆◇》 has made the advancement [Not Today, Thank You]
+[21:23:28] [Server thread/INFO]: Patrick031[/127.244.41.80:35717] logged in with entity id 4246 at (-1171.2521375805047, 25.0, -306.98210345236083)
+[21:23:28] [Server thread/INFO]: Sending server config values to client
+[21:23:28] [Server thread/INFO]: Patrick031 《◆◆◆◆◆》 joined the game
+[21:23:28] [Server thread/INFO]: [voicechat] Received secret request of Patrick031 (18)
+[21:23:28] [Server thread/INFO]: [voicechat] Sent secret to Patrick031
+[21:23:28] [Server thread/INFO]: Receiving client config
