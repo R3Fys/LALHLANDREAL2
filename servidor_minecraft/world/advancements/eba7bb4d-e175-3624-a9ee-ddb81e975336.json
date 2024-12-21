@@ -18,6 +18,7 @@
       "silver_birch_forest": "2024-12-16 19:32:27 +0000",
       "flower_fields": "2024-12-16 19:32:49 +0000",
       "cold_river": "2024-12-16 21:14:50 +0000",
+      "shrubland": "2024-12-21 16:19:35 +0000",
       "magnolia_highlands": "2024-12-16 20:48:12 +0000"
     },
     "done": false
@@ -29,6 +30,7 @@
       "silver_birch_forest": "2024-12-16 19:32:27 +0000",
       "flower_fields": "2024-12-16 19:32:49 +0000",
       "cold_river": "2024-12-16 21:14:50 +0000",
+      "shrubland": "2024-12-21 16:19:35 +0000",
       "magnolia_highlands": "2024-12-16 20:48:12 +0000"
     },
     "done": false
@@ -1712,6 +1714,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2024-12-16 20:55:32 +0000",
+      "cooked_beef": "2024-12-21 16:17:54 +0000",
       "cooked_salmon": "2024-12-16 20:53:14 +0000"
     },
     "done": false
@@ -1915,15 +1918,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
-      "has_leather": "2024-12-21 16:15:45 +0000"
+      "has_log": "2024-12-21 16:15:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_mutton": "2024-12-21 16:16:20 +0000"
+      "has_logs": "2024-12-21 16:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 16:15:37 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_wood": "2024-12-21 16:15:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-21 16:15:45 +0000"
     },
     "done": true
   },
@@ -1933,21 +1954,9 @@
     },
     "done": true
   },
-  "mcwholidays:recipes/skeleton_balloon": {
-    "criteria": {
-      "has_planks": "2024-12-21 16:16:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-21 16:15:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2024-12-21 16:16:20 +0000"
     },
     "done": true
   },
@@ -1975,45 +1984,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
-    "criteria": {
-      "has_log": "2024-12-21 16:15:37 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/ghost_balloon": {
-    "criteria": {
-      "has_planks": "2024-12-21 16:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-12-21 16:15:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-21 16:15:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-12-21 16:16:20 +0000"
-    },
-    "done": true
-  },
-  "mcwholidays:recipes/ghost": {
-    "criteria": {
-      "has_planks": "2024-12-21 16:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-21 16:15:37 +0000"
     },
     "done": true
   },
@@ -2026,6 +1999,60 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-21 16:15:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2024-12-21 16:15:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2024-12-21 16:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-21 16:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-21 16:16:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/skeleton_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:16:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2024-12-21 16:16:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost_balloon": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-21 16:16:20 +0000"
+    },
+    "done": true
+  },
+  "mcwholidays:recipes/ghost": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:16:20 +0000"
     },
     "done": true
   },
@@ -2053,12 +2080,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/knife": {
-    "criteria": {
-      "has_leather": "2024-12-21 16:15:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-21 16:16:20 +0000"
@@ -2068,12 +2089,6 @@
   "comforts:recipes/decorations/sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2024-12-21 16:16:20 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/wrench": {
-    "criteria": {
-      "has_leather": "2024-12-21 16:15:45 +0000"
     },
     "done": true
   },
@@ -2101,15 +2116,57 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/oak": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
-      "has_wood": "2024-12-21 16:15:37 +0000"
+      "has_sweet_berries": "2024-12-21 16:21:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
-      "has_beef": "2024-12-21 16:15:45 +0000"
+      "has_berry_jam_jar": "2024-12-21 16:21:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-21 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-21 16:18:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-21 16:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-21 16:17:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-21 16:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-21 16:22:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-12-21 16:18:09 +0000"
     },
     "done": true
   },
